@@ -10,7 +10,7 @@ We collected the data from various public sources and then came up with mathemat
 
 The portal is also meant for new colleges to request for grants and also for colleges to request grants for some new project or research work.
 
-### Running
+### Run
 
 - To start it, just execute the **main.exe** in windows machine.
 - For linux systems, compile main.cpp and run the **a.out** file.
